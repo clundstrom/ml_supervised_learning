@@ -1,0 +1,6 @@
+venv/
+anaconda/
+.idea/
+data
+models
+2dv516_lecture1_notebooks
